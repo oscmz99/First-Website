@@ -28,9 +28,6 @@ li{
 section{
   border: 5px solid lightgreen;
   padding: 10px;
-  margin-right: 700px;
-  margin-left: 300px;
-  margin-bottom: 15px;
   border-radius: 80px;
   background:lightgoldenrodyellow;
   text-align: center;
@@ -47,5 +44,6 @@ img{
   border: 5px solid white;
 
 }
+
 
 
