@@ -4,15 +4,9 @@ body {
 
 h1 {
   color: yellow;
-  margin-left: 20px;
-  margin-right: 500px;
-  margin-left: 500px;
 }
 h2 {
   color:violet;
-  margin-left: 20px;
-  margin-right: 500px;
-  margin-left: 500px;
 }
 h3{
   color:white;
@@ -53,4 +47,5 @@ img{
   border: 5px solid white;
 
 }
+
 
