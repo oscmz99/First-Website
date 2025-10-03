@@ -4,6 +4,7 @@ body {
 
 h1 {
   color: yellow;
+  border: 5px solid lightgreen;
   margin-left: 20px;
   margin-right: 500px;
   margin-left: 500px;
@@ -51,4 +52,5 @@ img{
   color: cyan;
   margin-right: 0px;
   border: 5px solid white;
+
 }
